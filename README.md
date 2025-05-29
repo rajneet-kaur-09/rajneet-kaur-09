@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Rajneet Kaur 👩‍💻
 
-<!--
-**rajneet-kaur-09/rajneet-kaur-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Backend Developer | 4+ years experience  
+🔹 Specialized in Node.js, Express, MySQL  
+🔹 Building robust, scalable APIs in a product-based environment  
+🔹 Currently working at PrepLadder (since 2021)
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Node.js | Express.js
+- MySQL | REST APIs
+- Git | Postman | MySQL Workbench
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect!
+- 📧 Email: rajneet09kaur@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/rajneetkaur)
+
